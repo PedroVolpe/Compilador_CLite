@@ -1,0 +1,27 @@
+/*
+programa le dois numeros
+inteiros e encontra o maior
+*/
+int main(void){
+int _fat,_Num,_cont;
+scanf(_Num,_fat);
+_fat = 0x1;
+_cont = 0x2;
+_fat = (_fat/_fat)*_fat;
+while(_cont <= _Num){
+_fat = _fat*_cont;
+_cont = _cont + 0x1;
+}
+if(_fat < _fat){
+    if(_fat == _fat){
+        _fat = _fat*_cont;
+    }
+    else {
+        
+    }
+}
+else {
+    
+}
+printf(_fat); // imprime o fatorial calculado
+}
