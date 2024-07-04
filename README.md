@@ -5,6 +5,6 @@ Explicação completa presente nos PDFs.
 
 
   
-Autores do Código:
-Pedro Loureiro Morone Branco Volpe   
-Lucas Goulart de Farias Meres          
+Autores do Código:  
+Pedro Loureiro Morone Branco Volpe     
+Lucas Goulart de Farias Meres            
